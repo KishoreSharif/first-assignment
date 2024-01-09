@@ -186,7 +186,7 @@
   transform: translate(-50%, -50%);
 }
 
-.offers {
+.Red-sell {
   margin: 130px 0;
   width: 82%;
   max-width: 1320px;
@@ -199,9 +199,15 @@
   border-radius: 10px;
   background: #fff;
 }
+.offers {
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 150px;
+}
 #div-1 {
-  width: 33%;
+  width: 33.33%;
   float: left;
+  margin-left: 300px;
 }
 .Red {
   color: #f00;
@@ -224,15 +230,14 @@
   line-height: 32px;
 }
 #div-2 {
-  width: -3px%;
+  width: 33.33%;
   margin: 0 auto;
 }
 
-
 #div-3 {
- margin-top: -30%;
-  float: right;
-  margin-right: 5%;
+  width: 33.33%;
+  float: left;
+  margin-left: 0px;
 }
 .Twenty_Four_Color {
   color: #f00;
@@ -250,3 +255,241 @@
   font-weight: 400;
   line-height: 32px; /* 160% */
 }
+.parent {
+  width: 82%;
+  max-width: 1320px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+  margin-bottom: 63px;
+}
+
+.functional {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.sale-fifty-percent {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.holidays {
+  color: #f00;
+}
+.dolor {
+  width: 1068px;
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 160% */
+}
+.three-photos {
+  width: 82%;
+  max-width: 1320px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+  margin-bottom: 63px;
+  justify-content: space-between;
+}
+.parent-photos {
+  display: flex;
+  
+}
+.magic-box {
+  width: 200px ;
+  margin-top: 200px;
+  display: flex;
+}
+.lady {
+width: 400px;
+display: flex;
+height: 433px;
+border-radius: 16px 16px 0px 0px;
+background: lightgray -59.98px 0px / 151.553% 100% no-repeat;
+}
+.discount-fifty{
+  display: flex;
+margin-top: 100px;
+margin-left: 600px;
+width: 206.841px;
+height: 206.841px;
+flex-shrink: 0;
+}
+.red-carpet{
+width: 1357px;
+flex-shrink: 0;
+border-radius: 16px 0px 16px 16px;
+background: #F00;
+}
+.portfolio{
+  width: 82%;
+  max-width: 1320px;
+  margin: auto;
+  margin-top: 150px;
+  position: relative;
+  margin-bottom: 100px;
+}
+.text-gifts{
+  color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 22px;
+}
+.awesome{
+  color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+margin-bottom: 22px;
+}
+.paragraph-text{
+  width: 896px;
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 22px;
+}
+#main{
+  display: flex;
+  align-content: center;
+  justify-content:center;
+  margin-bottom: 350px;
+}
+#main div{
+  align-items: center;
+  margin: 10px;
+  width: 100%;
+}
+.Item-1{
+  height: 100px;
+  width: 100px;
+}
+.Item-2{
+  height: 100px;
+  width: 100px;
+}
+.Item-3{
+  height: 100px;
+  width: 100px;
+}
+#second-level{
+  display: flex;
+  align-content: center;
+  justify-content:center;
+  margin-bottom: 500px;
+}
+#second-level div{
+  align-items: center;
+  margin: 10px;
+  width: 100%;
+}
+.Item-4{
+  height: 100px;
+  width: 100px;
+}
+.Item-5{
+  height: 100px;
+  width: 100px;
+}
+.Item-6{
+  height: 100px;
+  width: 100px;
+}
+.subscribe{
+  margin: 130px 0;
+  width: 82%;
+  max-width: 1320px;
+  height: 482px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+  font-family: Merriweather;
+  margin-bottom: 120px;
+  border-radius: 10px;
+  border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+  margin-bottom: 80px;
+  width: 1320px;
+height: 616px;
+flex-shrink: 0;
+}
+.email{
+  align-items: center;
+  display: flex;
+  margin-left: 550px;
+  margin-top: 220px;
+}
+.section-title{
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.text-newsletter{
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+#Ending {
+  display: flex;
+  background-color: black;
+  align-content: normal;
+}
+#Ending div{
+  align-items: center;
+  margin: 300px;
+  width: 100%
+}
+.Address{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.Social{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.Contact{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+}
+ 
